@@ -1,0 +1,8 @@
+Ask the user to make calculator
+Input +,-,*,%,/ operators
+Perform all above operations
+Display addition=num1+num2
+Display subtraction=num1-num2
+Display multiplication=num1*num2
+Display division=num1/num2
+Display percentage=obt. marks/total marks * 100
