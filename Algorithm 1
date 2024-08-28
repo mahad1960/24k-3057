@@ -1,0 +1,6 @@
+Ask user to enter number1
+Ask user to enter number2
+If num1/num2=decimal no.,display"not divisible"
+If num1/num2=whole no.,display"divisible"
+If num1/num2=whole no.,display is "even" Else display is "odd"
+End
