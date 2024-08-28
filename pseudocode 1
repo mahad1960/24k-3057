@@ -1,0 +1,9 @@
+Start
+Input number1
+Input number2
+Input number3
+Set num1,num2,num3 - maximum numbers
+If num1>num2 And num3 Then "Num1 is the maximum number"
+If num2>num1 And num3 Then "Num2 is the maximum number"
+Else "num3>num1 And num2"
+End
