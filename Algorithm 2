@@ -1,0 +1,4 @@
+Ask the user to enter number
+Set a system that when a user enters a number,diplay"month's name"
+Display jan=1,feb=2,mar=3,apr=4,may=5,june=6,july=7,aug=8,sep=9,oct=10,nov=11,dec=12
+End
