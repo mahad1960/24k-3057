@@ -3,5 +3,5 @@ Input a
 Input b
 Input c
 Set a,b,c - add
-Add a,Add b,Add c
+Set -(-a-b-c)
 End
